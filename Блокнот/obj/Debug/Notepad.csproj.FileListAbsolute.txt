@@ -1,0 +1,53 @@
+C:\Users\Анатолий\Documents\Visual Studio 2008\Projects\Блокнот\Блокнот\bin\Debug\Блокнот.exe
+C:\Users\Анатолий\Documents\Visual Studio 2008\Projects\Блокнот\Блокнот\bin\Debug\Блокнот.pdb
+C:\Users\Анатолий\Documents\Visual Studio 2008\Projects\Блокнот\Блокнот\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Анатолий\Documents\Visual Studio 2008\Projects\Блокнот\Блокнот\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\Анатолий\Documents\Visual Studio 2008\Projects\Блокнот\Блокнот\obj\Debug\Notepad.csproj.GenerateResource.Cache
+C:\Users\Анатолий\Documents\Visual Studio 2008\Projects\Блокнот\Блокнот\obj\Debug\Блокнот.exe
+C:\Users\Анатолий\Documents\Visual Studio 2008\Projects\Блокнот\Блокнот\obj\Debug\Блокнот.pdb
+C:\Users\Анатолий\Documents\Visual Studio 2008\Projects\Блокнот\Блокнот\obj\Debug\Notepad.NotepadForm.resources
+C:\Users\Анатолий\Documents\Visual Studio 2008\Projects\Блокнот\Блокнот\obj\Debug\Notepad.SearchForm.resources
+C:\Users\Анатолий\Documents\Visual Studio 2008\Projects\Блокнот\Блокнот\obj\Debug\Notepad.ReplaseForm.resources
+C:\Users\Анатолий\Documents\Visual Studio 2008\Projects\Блокнот\Блокнот\obj\Debug\Notepad.GoToLineForm.resources
+C:\Users\Анатолий\Documents\Visual Studio 2008\Projects\Блокнот\Блокнот\bin\Debug\notepad_5844.ico
+C:\Users\st02\Downloads\Bloknot_1490891254\Блокнот\Блокнот\obj\Debug\Блокнот.exe
+C:\Users\st02\Downloads\Bloknot_1490891254\Блокнот\Блокнот\obj\Debug\Блокнот.pdb
+C:\Users\st02\Downloads\Bloknot_1490891254\Блокнот\Блокнот\bin\Debug\Блокнот.exe
+C:\Users\st02\Downloads\Bloknot_1490891254\Блокнот\Блокнот\bin\Debug\Блокнот.pdb
+C:\Users\st02\Downloads\Bloknot_1490891254\Блокнот\Блокнот\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+C:\Users\st02\Downloads\Bloknot_1490891254\Блокнот\Блокнот\obj\Debug\Notepad.MDINotepad.resources
+C:\Users\st02\Downloads\Bloknot_1490891254\Блокнот\Блокнот\obj\Debug\Notepad.NotepadForm.resources
+C:\Users\st02\Downloads\Bloknot_1490891254\Блокнот\Блокнот\obj\Debug\Notepad.GoToLineForm.resources
+C:\Users\st02\Downloads\Bloknot_1490891254\Блокнот\Блокнот\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\st02\Downloads\Bloknot_1490891254\Блокнот\Блокнот\obj\Debug\Notepad.SearchForm.resources
+C:\Users\st02\Downloads\Bloknot_1490891254\Блокнот\Блокнот\obj\Debug\Notepad.ReplaseForm.resources
+C:\Users\st02\Downloads\Bloknot_1490891254\Блокнот\Блокнот\obj\Debug\Notepad.csproj.GenerateResource.Cache
+D:\USERS\3kurs\FMN-3\Блокнот\Блокнот\obj\Debug\Блокнот.exe
+D:\USERS\3kurs\FMN-3\Блокнот\Блокнот\obj\Debug\Блокнот.pdb
+D:\USERS\3kurs\FMN-3\Блокнот\Блокнот\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+D:\USERS\3kurs\FMN-3\Блокнот\Блокнот\obj\Debug\Notepad.MDINotepad.resources
+D:\USERS\3kurs\FMN-3\Блокнот\Блокнот\obj\Debug\Notepad.NotepadForm.resources
+D:\USERS\3kurs\FMN-3\Блокнот\Блокнот\obj\Debug\Notepad.GoToLineForm.resources
+D:\USERS\3kurs\FMN-3\Блокнот\Блокнот\obj\Debug\Notepad.Properties.Resources.resources
+D:\USERS\3kurs\FMN-3\Блокнот\Блокнот\obj\Debug\Notepad.SearchForm.resources
+D:\USERS\3kurs\FMN-3\Блокнот\Блокнот\obj\Debug\Notepad.ReplaseForm.resources
+D:\USERS\3kurs\FMN-3\Блокнот\Блокнот\obj\Debug\Notepad.csproj.GenerateResource.Cache
+D:\USERS\3kurs\FMN-3\Блокнот\Блокнот\bin\Debug\Блокнот.exe
+D:\USERS\3kurs\FMN-3\Блокнот\Блокнот\bin\Debug\Блокнот.pdb
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Debug\Блокнот.exe
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Debug\Блокнот.pdb
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\bin\Debug\Блокнот.exe
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\bin\Debug\Блокнот.pdb
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Debug\Notepad.csprojResolveAssemblyReference.cache
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Debug\Notepad.MDINotepad.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Debug\Notepad.NotepadForm.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Debug\Notepad.GoToLineForm.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Debug\Notepad.Properties.Resources.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Debug\Notepad.SearchForm.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Debug\Notepad.ReplaseForm.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Debug\Notepad.csproj.GenerateResource.Cache
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\bin\Debug\ru\Блокнот.resources.dll
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Debug\Notepad.MDINotepad.ru.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Debug\ru\Блокнот.resources.dll
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Debug\Notepad.Messages.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\bin\Debug\Блокнот.exe.config

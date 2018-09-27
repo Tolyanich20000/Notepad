@@ -1,0 +1,10 @@
+C:\Users\Анатолий\AppData\Local\Temporary Projects\Блокнот\bin\Debug\Блокнот.exe
+C:\Users\Анатолий\AppData\Local\Temporary Projects\Блокнот\bin\Debug\Блокнот.pdb
+C:\Users\Анатолий\AppData\Local\Temporary Projects\Блокнот\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Анатолий\AppData\Local\Temporary Projects\Блокнот\obj\Debug\Блокнот.Form1.resources
+C:\Users\Анатолий\AppData\Local\Temporary Projects\Блокнот\obj\Debug\Блокнот.Properties.Resources.resources
+C:\Users\Анатолий\AppData\Local\Temporary Projects\Блокнот\obj\Debug\Блокнот.csproj.GenerateResource.Cache
+C:\Users\Анатолий\AppData\Local\Temporary Projects\Блокнот\obj\Debug\Блокнот.exe
+C:\Users\Анатолий\AppData\Local\Temporary Projects\Блокнот\obj\Debug\Блокнот.pdb
+C:\Users\Анатолий\Documents\Visual Studio 2008\Projects\Блокнот\Блокнот\obj\Debug\Блокнот.exe
+C:\Users\Анатолий\Documents\Visual Studio 2008\Projects\Блокнот\Блокнот\obj\Debug\Блокнот.pdb

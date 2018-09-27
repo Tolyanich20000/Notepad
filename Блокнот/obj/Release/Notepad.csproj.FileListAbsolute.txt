@@ -1,0 +1,16 @@
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\bin\Release\Блокнот.exe.config
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\bin\Release\Блокнот.exe
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\bin\Release\Блокнот.pdb
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\bin\Release\ru\Блокнот.resources.dll
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Release\Notepad.MDINotepad.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Release\Notepad.Messages.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Release\Notepad.NotepadForm.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Release\Notepad.GoToLineForm.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Release\Notepad.Properties.Resources.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Release\Notepad.SearchForm.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Release\Notepad.ReplaseForm.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Release\Notepad.MDINotepad.ru.resources
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Release\Notepad.csproj.GenerateResource.Cache
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Release\ru\Блокнот.resources.dll
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Release\Блокнот.exe
+C:\Users\st02\Downloads\Блокнот 1\Блокнот\obj\Release\Блокнот.pdb
